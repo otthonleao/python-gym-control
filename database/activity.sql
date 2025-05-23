@@ -1,0 +1,13 @@
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Yoga', 1, '2023-01-01 08:00:00', 60, 20, 1, TRUE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Pilates', 2, '2023-01-02 09:00:00', 45, 15, 2, TRUE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Zumba', 3, '2023-01-03 10:00:00', 30, 25, 3, TRUE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Spinning', 4, '2023-01-04 11:00:00', 50, 30, 1, TRUE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Boxing', 5, '2023-01-05 12:00:00', 40, 20, 2, TRUE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('CrossFit', 6, '2023-01-06 13:00:00', 60, 15, 3, TRUE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Dance', 7, '2023-01-07 14:00:00', 45, 25, 1, TRUE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Martial Arts', 8, '2023-01-08 15:00:00', 50, 30, 2, FALSE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Aerobics', 9, '2023-01-09 16:00:00', 30, 20, 3, TRUE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Weightlifting', 10, '2023-01-10 17:00:00', 60, 15, 1, TRUE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Swimming', 11, '2023-01-11 18:00:00', 45, 25, 2, TRUE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Running', 12, '2023-01-12 19:00:00', 40, 20, 3, FALSE);
+INSERT INTO WEBUSER.TB_ACTIVITY (name, instructor, date, duration, capacity, type_plan, active) VALUES ('Cycling', 13, '2023-01-13 20:00:00', 50, 30, 1, TRUE);

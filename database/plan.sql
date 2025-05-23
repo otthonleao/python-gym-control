@@ -1,0 +1,3 @@
+INSERT INTO WEBUSER.TB_PLAN (plan) VALUES ('Plano Mensal');
+INSERT INTO WEBUSER.TB_PLAN (plan) VALUES ('Plano Semestral');
+INSERT INTO WEBUSER.TB_PLAN (plan) VALUES ('Plano Anual');
